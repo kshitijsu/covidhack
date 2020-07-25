@@ -1,0 +1,13 @@
+{
+  "doctor": [
+    {
+      "id": 1,
+      "name": "Dr. A.K. Kumar",
+      "degrees": "ORTHOPEDICS",
+      "status": "Closed",
+      "servingHours": "09: 00AM - 11: 00PM",
+      "nextAvailableSlot": "12: 30PM, Today",
+      "specializations": "JOINT SPECIALIST"
+    }
+  ]
+}
